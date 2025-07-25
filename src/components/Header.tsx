@@ -23,6 +23,9 @@ const Header = () => {
           <a href="#how-it-works" className="text-muted-foreground hover:text-foreground transition-colors">
             كيف يعمل
           </a>
+          <a href="#consultation" className="text-muted-foreground hover:text-foreground transition-colors">
+            الاستشارات
+          </a>
           <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
             الأسعار
           </a>
